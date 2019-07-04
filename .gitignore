@@ -1,6 +1,7 @@
 
 **/node_moduels
 **/node_moduels/.bin
+**/back-end/node_moduels/**
 back-end/node_moduels
 back-end/node_moduels/**
 front-end/node_moduels
