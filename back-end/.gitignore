@@ -1,6 +1,7 @@
 
 **/node_moduels
 /node_moduels/**
+node_moduels/
 node_moduels
 
 **.lock
